@@ -13,4 +13,4 @@ Software Engineer focused on building efficient, scalable solutions.
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### nostr: 
-npub17c8zsp44z7mdnett8uh80m9e2880m62mumtg54qv7f7asv8smhus79yhm5
+npub192a7f57khyzf2qxk60u9ch35cgn6j7qlqntpxhmhexpep40ealcsjasa64
