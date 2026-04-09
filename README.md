@@ -12,4 +12,5 @@ Software Engineer focused on building efficient, scalable solutions.
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
+### nostr: 
+npub17c8zsp44z7mdnett8uh80m9e2880m62mumtg54qv7f7asv8smhus79yhm5
